@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:OpenGL_11_Planet/OpenGL_11_Planet.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:OpenGL_10_ClipPlane/OpenGL_10_ClipPlane.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:OpenGL_09_Model/OpenGL_09_Model.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:OpenGL_CUBE/OpenGL_CUBE.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:OpenGL_05_VertexArray/OpenGL_05_VertexArray.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:OpenGL_04_Polygon/OpenGL_04_Polygon.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:OpenGL_03_SimpleCircle/OpenGL_03_SimpleCircle.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:OpenGL_02_DoubleBuffering/OpenGL_02_DoubleBuffering.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:OpenGl-01-HelloWorld/OpenGl-01-HelloWorld.xcodeproj">
+   </FileRef>
+</Workspace>

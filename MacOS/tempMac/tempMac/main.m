@@ -21,7 +21,7 @@ void display()
     glBegin(GL_POLYGON);
     glVertex2f(-0.5, -0.5);
     glVertex2f(-0.5, 0.5);
-    glVertex2f(0.5, 0.5);
+    glVertex2f(0.4, 0.4);
     glVertex2f(0.5, -0.5);
     glEnd();
     glFlush();
