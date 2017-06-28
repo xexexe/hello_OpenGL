@@ -14,6 +14,8 @@
 		1FB13C531F0390B300301DC0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1FB13C521F0390B300301DC0 /* Assets.xcassets */; };
 		1FB13C561F0390B300301DC0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1FB13C541F0390B300301DC0 /* LaunchScreen.storyboard */; };
 		1FB13C611F0390B300301DC0 /* HelloWorld02Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 1FB13C601F0390B300301DC0 /* HelloWorld02Tests.m */; };
+		1FB13C6C1F03982700301DC0 /* shader.vsh in Resources */ = {isa = PBXBuildFile; fileRef = 1FB13C6B1F03982700301DC0 /* shader.vsh */; };
+		1FB13C6E1F03985600301DC0 /* shader.fsh in Resources */ = {isa = PBXBuildFile; fileRef = 1FB13C6D1F03985600301DC0 /* shader.fsh */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +42,8 @@
 		1FB13C5C1F0390B300301DC0 /* HelloWorld02Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HelloWorld02Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1FB13C601F0390B300301DC0 /* HelloWorld02Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HelloWorld02Tests.m; sourceTree = "<group>"; };
 		1FB13C621F0390B300301DC0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1FB13C6B1F03982700301DC0 /* shader.vsh */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.glsl; path = shader.vsh; sourceTree = "<group>"; };
+		1FB13C6D1F03985600301DC0 /* shader.fsh */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.glsl; path = shader.fsh; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +87,8 @@
 			children = (
 				1FB13C491F0390B300301DC0 /* AppDelegate.h */,
 				1FB13C4A1F0390B300301DC0 /* AppDelegate.m */,
+				1FB13C6B1F03982700301DC0 /* shader.vsh */,
+				1FB13C6D1F03985600301DC0 /* shader.fsh */,
 				1FB13C4C1F0390B300301DC0 /* ViewController.h */,
 				1FB13C4D1F0390B300301DC0 /* ViewController.m */,
 				1FB13C4F1F0390B300301DC0 /* Main.storyboard */,
@@ -194,6 +200,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1FB13C6E1F03985600301DC0 /* shader.fsh in Resources */,
+				1FB13C6C1F03982700301DC0 /* shader.vsh in Resources */,
 				1FB13C561F0390B300301DC0 /* LaunchScreen.storyboard in Resources */,
 				1FB13C531F0390B300301DC0 /* Assets.xcassets in Resources */,
 				1FB13C511F0390B300301DC0 /* Main.storyboard in Resources */,
