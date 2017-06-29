@@ -1,3 +1,3 @@
 void main() {
-    gl_FragColor = vec4(0.5,0.5,0.5,1); //顶点颜色
+    gl_FragColor = vec4(0.2,0.2,0.8,1); //顶点颜色
 }

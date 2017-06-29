@@ -94,7 +94,7 @@
     // Attach fragment shader to program
     glAttachShader(program, fragShader);
     
-    // Link program. todo
+    // Link program.
     if (![self linkProgram:program]) {
         NSLog(@"Failed to link program: %d", program);
         
